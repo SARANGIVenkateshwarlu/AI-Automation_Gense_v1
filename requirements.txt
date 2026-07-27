@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-community
+pypdf
+unstructured
+jq
+sqlalchemy
